@@ -1,5 +1,8 @@
-# Tags: latest, v0.45
+# Tags: latest, v0.46
 FROM mozilla/cjms:latest
+FROM mozilla/cjms:v0.46
+
+# Tags: v0.45
 FROM mozilla/cjms:v0.45
 
 # Tags: v0.44
@@ -64,45 +67,3 @@ FROM mozilla/cjms:v0.22
 
 # Tags: v0.21
 FROM mozilla/cjms:v0.21
-
-# Tags: v0.20
-FROM mozilla/cjms:v0.20
-
-# Tags: v0.19
-FROM mozilla/cjms:v0.19
-
-# Tags: v0.18
-FROM mozilla/cjms:v0.18
-
-# Tags: v0.16
-FROM mozilla/cjms:v0.16
-
-# Tags: v0.15
-FROM mozilla/cjms:v0.15
-
-# Tags: v0.13
-FROM mozilla/cjms:v0.13
-
-# Tags: v0.12
-FROM mozilla/cjms:v0.12
-
-# Tags: v0.11
-FROM mozilla/cjms:v0.11
-
-# Tags: v0.8
-FROM mozilla/cjms:v0.8
-
-# Tags: v0.7
-FROM mozilla/cjms:v0.7
-
-# Tags: v0.6
-FROM mozilla/cjms:v0.6
-
-# Tags: v0.5
-FROM mozilla/cjms:v0.5
-
-# Tags: v0.4
-FROM mozilla/cjms:v0.4
-
-# Tags: v0.3
-FROM mozilla/cjms:v0.3
